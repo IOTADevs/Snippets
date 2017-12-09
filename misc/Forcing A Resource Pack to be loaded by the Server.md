@@ -1,3 +1,6 @@
+# Forcing A Resource Pack to be loaded by the Server
+#### Language: PHP<br />API: PocketMine-MP API 3.0.0-ALPHA9/10
+
 ### Code:
 ```php
 /**
